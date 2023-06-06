@@ -1,5 +1,6 @@
 Commands done before initializing push:
 
-rails new cat_pictures_shop -d postgresql
-bundle install
-rails db:create
+
+<li>rails new cat_pictures_shop -d postgresql</li>
+<li>bundle install</li>
+<li>rails db:create</li>
